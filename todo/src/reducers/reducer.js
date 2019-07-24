@@ -12,3 +12,5 @@ export const reducer = (state, action) => {
     const newState = state + 1
     return newState;
 }
+
+export default initialState;
